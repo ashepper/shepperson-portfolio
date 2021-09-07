@@ -6,7 +6,7 @@ Hi! My name is Anna Shepperson, I’m a second year Public Policy and Management
 
 Prior to Heinz, I worked for several years in Pittsburgh-based non-profits, mostly working with and advocating for immigrant communities here in Western PA. Most recently I was the project manager at All for All, a local initiative that was created to hold the region accountable for implementing its immigrant inclusion plan. There, I worked closely with the Mayor’s Office and other regional stakeholders to get programs and initiatives off the ground to make the region more accessible for foreign-born residents. Currently, I’m interning at New American Economy, a NY-based immigration research and advocacy organization.
 
-In my free time, you can find me working on my “fixer-upper” house in Pittsburgh, hiking and spending time outside, or at <a href="pullproof.studio">Pullproof Studio</a>, an artist co-working space and printmaking studio I (along with several friends) run in the Garfield neighborhood of Pittsburgh. 
+In my free time, you can find me working on my “fixer-upper” house in Pittsburgh, hiking and spending time outside, or at [Pullproof Studio]: https://www.pullproof.studio/, an artist co-working space and printmaking studio I (along with several friends) run in the Garfield neighborhood of Pittsburgh. 
 
 ## What I hope to learn
 I studied cultural anthropology and fine art in undergrad, and am particularly drawn to visual methods of conveying information. This course seemed like an excellent way to learn tools for integrating my visual tendencies with my career goals in public policy and advocacy. Mostly, I hope to learn what tools are out there for creating and imagining new ways of visualizing data.
