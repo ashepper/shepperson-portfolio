@@ -16,7 +16,7 @@ I studied cultural anthropology and fine art in undergrad, and am particularly d
 
 ### A Project
 
-_description of said project_
+[some text here](/dataviz2.md)
 
 ### Another Project 🤘
 _some cool fun words about this other project_
