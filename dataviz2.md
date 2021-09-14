@@ -14,13 +14,13 @@ I chose to highlight the United States, to get the reader thinking about where t
 ## Visualization 2: Flourish Sparklines
 Here, I visualize the same data in a 'sparkline' format using the online tool [Flourish](https://flourish.studio/). Flourish adds more customization capabilities than the OECD website tool, but users are still limited in what they can do. 
 
-The data in this sparkline format is good for comparing trends over time across countries. Here, we can see if any countries saw similar uptiks or drops in their Debt-to-GDP ratios at around the same time, or if any countires followed similar trends over time. 
+The data in this sparkline format is good for comparing trends over time across countries. We can see if any countries saw similar uptiks or drops in their Debt-to-GDP ratios at around the same time, and how countries vary in their overall trajectory.
 
 I chose to visualize the Debt-to-GDP ration in a reddish color to indicate that what we are looking at is "bad."
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7254814"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Visualization 3: Flourish Heatmap
-Lastly, I visualized the data again in Flourish in a heatmap format.
+Lastly, I visualized the data again in Flourish in a heatmap format. I thought this could be a good way to more clearly see the extent or severity of government debt and its change over time. I also thought it could be a clearer way to compare the extend of debt between countries. It becomes clear from this graph the extent of Japan's debt (compared to its GDP). We also notice that with a few small exceptions, no country seems to be decreasing their Debt-to-GDP ratio. I chose to visualize the Debt-to-GDP ration in reds, with the higher the ratio, the darker the red. This is meant to communicate severity, vs the lighter colors for those countries/periods with lower ratios.
 
 <div class="flourish-embed flourish-heatmap" data-src="visualisation/7254991"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
