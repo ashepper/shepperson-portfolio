@@ -1,11 +1,11 @@
 # Government Debt Data Visualizations
 
-Below are three visualizations that all use the same [government debt data](https://data.oecd.org/gga/general-government-debt.htm) from the OECD. Here, I experiment with a couple of free, on-line tools for creating quick and easy visualizations. The data includes Debt-to-GDP ratios from 34 different countries spanning the years 1995 - 2020. 
+Below are three visualizations that all use the same [government debt data](https://data.oecd.org/gga/general-government-debt.htm) from the OECD. The data includes Debt-to-GDP ratios (total general government debt as a percentage of GDP) from 34 different countries spanning the years 1995 - 2020. Below, I experiment with a couple of free, on-line tools for creating quick and easy visualizations. 
 
 <i><b>Data Source:</b> OECD (2021), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 13 September 2021)</i>
 
 ## Visualization 1: OECD Website Tool
-This first visualization simply uses the chart tool provided on the OECD website. This simple tool is quite intuitive; you can scroll to a desired year, highlight specific countries, and choose between visualizing data over time in a line chart, a bar chart for a specific year of data, a map with 'bubbles' whose size indicates the Debt-to-GDP ration, or a simple table. While the tool is simple and quick, there is not too much room for customization. Users cannot alter colors, or much outside of the type of chart they want or the data they want to display. Any further customization would require a more advanced tool
+This first visualization simply uses the chart tool provided on the OECD website. This simple tool is quite intuitive; you can scroll to a desired year, highlight specific countries, and choose between visualizing data over time in a line chart, a bar chart for a specific year of data, a map with 'bubbles' whose size indicates the Debt-to-GDP ration, or a simple table. While the tool is simple and quick, there is not too much room for customization. Users cannot alter colors or really anything outside of the type of chart they want and the data they want to display. Any further customization would require a more advanced tool.
 
 I chose to highlight the United States, to get the reader thinking about where the United States falls in relation to other countries. A simple highlight (red) of the US serves this purpose. 
 
