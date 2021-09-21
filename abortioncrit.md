@@ -2,7 +2,7 @@
 On December 1, 2021, the [Supreme Court will hear a case](https://www.nytimes.com/2021/05/17/us/politics/supreme-court-roe-wade.html) challenging <i>Roe v. Wade</i>. With a pregnant person’s right to bodily autonomy on the line, it is vital that we are able to effectively communicate the long term effects of <i>Roe v. Wade</i> and abortion access in the United States. This means being able to gather and represent data in a way that is clear, intuitive, and appealing to the broader public. 
 
 The graphic below, found in [this article from](https://www.economist.com/graphic-detail/2017/01/18/the-abortion-rate-in-america-falls-to-its-lowest-level-since-roe-v-wade) <i>The Economist</i>, attempts to depict the change abortion rates over time in the United States after Roe v. Wade. We will walk through what is and is not working about this visualization, and create a version that more accurately and honestly depicts abortion trends in the United States after the 1973 landmark decision.
-![image](https://user-images.githubusercontent.com/89869108/134096754-89ee2078-031c-4e38-b207-2a1a7bec4751.png)
+![image](/economist_snip.png)
 
 ## Critiquing the Visualization
 This visualization aims to depict trends in abortion rates over time among US women. The authors try to contextualize the abortion data by including information such as simultaneous birth rates and indicating key events that might affect abortion rates.
@@ -24,17 +24,17 @@ Overall, I do not think that the visualization is particularly inspiring. There 
 ### Version 1:
 My first attempt at visualizing the data  was an area chart. I felt that displaying the number of abortions as a proportion of total pregnancies was critical in understanding the data on a deeper level. It was also a good way to have all the data on the same axes, remedying one of the main flaws of the original visual.
 
-![image](https://github.com/ashepper/shepperson-portfolio/blob/3f78d2e3381478a9fd9e0d516690a14c48aca558/abort_wire1.png)
+![image](/abort_wire1.png)
 
 ### Version 2:
 In version 2, I went for a simple line graph. While the numbers no longer reflected proportions, I thought maybe this version would be preferable to those who aren’t as familiar with area charts or think they are confusing. The line chart is familiar with most populations (I felt), and would perhaps be more easily interpretable. I wanted to retain the “total pregnancies” as a benchmark, so kept that on the same axis.
 
-![image](https://github.com/ashepper/shepperson-portfolio/blob/d1c8435e8a8c3fb42bf534ae42f497ebb831d39f/abort_wire2.png)
+![image](/abort_wire2.png)
 
 ### Version 3:
 I made version 3 after the first round of feedback that I received. The  person interpreting my first graph was confused about the format of an area chart, and what the number on the y-axis represented. They also found the simple line chart confusing, and thought that the “total pregnancies” line was additional information that had not been included in the first version. This third version was my attempt at making the area chart clearer with more direct titles and switching the order of live birth, abortion, and fetal loss for births (the largest proportion) to be on top.
 
-![image](https://github.com/ashepper/shepperson-portfolio/blob/3f78d2e3381478a9fd9e0d516690a14c48aca558/abort_wire3.png)
+![image](/abort_wire3.png)
 
 
 ## User Testing
