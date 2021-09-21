@@ -5,6 +5,7 @@ The graphic below, found in [this article from](https://www.economist.com/graphi
 ![image](/economist_snip.png)
 
 ## Critiquing the Visualization
+### Overall Observations
 This visualization aims to depict trends in abortion rates over time among US women. The authors try to contextualize the abortion data by including information such as simultaneous birth rates and indicating key events that might affect abortion rates.
 
 Based on the article and what is included in the visual, it seems that the creators are a little lost in what the purpose of the visualization is. Depending on their goal, some of the information included could be seen as extraneous. The article discusses many possible causes of the declines in abortion rate in recent years, but makes no definitive statement as to why this may be occurring. 
@@ -19,6 +20,13 @@ The way it stands the visualization is not easy to understand at first glance, t
 In terms of aesthetics, I would say that this visualization is currently about average. The colors seem arbitrary but at the same time are not necessarily distracting. The palette is appropriately limited. Because the intended focus of the visualization is the abortion rate, it may make more sense to have this line be a bright color like the blue used for birth rate, and birth rate represented in gray. If the focus of the graph is to see the trends in relation to when key legislation/court cases occurred, I support having the dates of these events in red to draw attention to these time periods.
 
 Overall, I do not think that the visualization is particularly inspiring. There are some key moments that stick out and may cause discussion . For example, the noted steep drop in birth rate after abortion laws liberalised in 15 states in (1969? Or is it 1970? It is hard to tell from the labeling!), as well as the increase in abortion rate. Even with these pieces of information visualized, displaying the information in a clearer way and with a fuller picture would be beneficial to the audience.
+
+### Audience
+The intended audience is readers of The Economist; these are likely educated (male) readers. The title of the article suggests that it is targeted towards people who have an interest in abortion, and the purpose is to help them understand if and why it may be increasing or decreasing in frequency.
+
+The visualization does communicate valuable information: the birth and abortion rates among women age 15-44 in the United States. However, the information takes some time to interpret. Readers must look at not just two but 3 axes in order to interpret the data. Only a reader with patience would be able to interpret the visualization.
+
+Similarly, it is hard to tell from the graph what the larger intent of the visualization is. Readers can see from the visualization  that birth rates and aboriton rates are declining, but it is hard to visualize the bigger picture. The graph makes an attempt to get at this “bigger picture” by including the dates of some key policy and societal changes, but it does not include all of them. Simply displaying the abortion rate and birth rate as a part of a larger pregnancy rate could provide a fuller picture of the trends that are occurring without swaying the reader into thinking certain events or policies have more impact than others, simply because others are not represented.
 
 ## Wireframing a Solution
 ### Version 1:
