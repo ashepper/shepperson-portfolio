@@ -41,23 +41,22 @@ I made version 3 after the first round of feedback that I received. The  person 
 After a full round of feedback on all three versions, no one told me exactly what I wanted to hear! According to the “users,” there were confusing parts about each of the visualizations; though the third version remained the most popular. Some people suggested that a line graph might be more effective. Area charts are not intuitive to those who do not look at graphs on a regular basis (in my sample size of 4)!
 
 ### Gordon’s feedback:
-#### Version 1:
+##### Version 1:
 <b> Can you tell me what you think this is?</b> <i>A graph depicting results of pregnancy in US women </i>
-
 <b>Can you describe to me what this is telling you?</b> <i>More fetus losses than live births. Fetus line is all the way up at the top. Live birth section is largest but does not have highest numbers so thats confusing. Am I reading lines or width of the shape? </i>
-
 <b>Is there anything you find surprising or confusing?</b> <i> I don’t belive there are no abortions before 1970</i>
-
 <b>Who do you think is the intended audience for this?</b> <i>No idea. People who want to know about birth. If you’re worried about your own baby not this graph, you wouldn’t care about abortion. People who want to make a case about aboriton maybe?</i>
-
 <b>Is there anything you would change or do differently?</b> <i>Change how the data is presented. Make it clear what the numbers actually are. Should i read the width or the number on the axis? Put higher percentage one on top. </i>
 
-#### Version 2:
+##### Version 2:
 <b> Can you tell me what you think this is?</b> <i>This is the same thing but better presented</i>
-
 <b> Is there anything you find surprising or confusing? </b> <i> I learned something new! Out of 1000 women only 100 are pregnant. For some reason you included line for total pregnancies. The total pregnancies line is different information than live birth, aboriton, fetal loss so I don’t understand why its there. If rate per 1000 women how is there always 100 pregnancies. Why is it per 1000 women why isn’t it just per 100 pregnancies. Then you wouldn’t need the line. There are three categories that are all part of the total.</i>
-
 <b>Is there anything you would change or do differently?</b> <i>Put rate out of per 100 pregnancies and get rid of total pregnancies line</i>
+
+### Amy's Feedback
+##### Version 3:
+<b>Can you tell me what you think this is?</b> <i> An area chart of what happens after women become pregnant in the US.</i> <b>Can you describe to me what this is telling you?</b> <i> Based on the title, it's telling me that abortion rates have declined over time.</i> <b>Is there anything you find surprising or confusing?</b> <i>The scale of the stacked area. </i> <b>Is there anything you would change or do differently?</b> <i>Overall it's pretty clear in terms of visualizing the trend! and the colors are cute. Honestly i wouldnt mind just seeing them as trendlines instead -- i think it would feel a little more intuitive. </i>
+
 
 ## The Solution
 Taking the feedback I received, I made two final representations of the data. Both have clear titles indicating that we are examining aboritons post <i>Roe v. Wade</i>, and mark <i>Roe v. Wade</i> on the visualization, mimicking the tactic used in the Economist.
