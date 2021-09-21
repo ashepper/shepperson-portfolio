@@ -1,7 +1,7 @@
 # Visualizing Abortion Data
 On December 1, 2021, the [Supreme Court will hear a case](https://www.nytimes.com/2021/05/17/us/politics/supreme-court-roe-wade.html) challenging <i>Roe v. Wade</i>. With a pregnant person’s right to bodily autonomy on the line, it is vital that we are able to effectively communicate the long term effects of <i>Roe v. Wade</i> and abortion access in the United States. This means being able to gather and represent data in a way that is clear, intuitive, and appealing to the broader public. 
 
-The graphic below, found in [this article from](https://www.economist.com/graphic-detail/2017/01/18/the-abortion-rate-in-america-falls-to-its-lowest-level-since-roe-v-wade) <i>The Economist</i>, attempts to depict the change abortion rates over time in the United States after Roe v. Wade. We will walk through what is and is not working about this visualization, and create a version that more accurately and honestly depicts abortion trends in the United States after the 1973 landmark decision.
+The graphic below, found in [this article from](https://www.economist.com/graphic-detail/2017/01/18/the-abortion-rate-in-america-falls-to-its-lowest-level-since-roe-v-wade) <i>The Economist</i>, attempts to depict the change in abortion rates over time in the United States after <i>Roe v. Wade</i>. We will walk through what is and is not working about this visualization, and create a version that more accurately and honestly depicts abortion trends in the United States after the 1973 landmark decision.
 ![image](/economist_snip.png)
 
 ## Critiquing the Visualization
@@ -65,6 +65,13 @@ After a full round of feedback on all three versions, no one told me exactly wha
 ##### Version 3:
 <b>Can you tell me what you think this is?</b> <i> An area chart of what happens after women become pregnant in the US.</i> <b>Can you describe to me what this is telling you?</b> <i> Based on the title, it's telling me that abortion rates have declined over time.</i> <b>Is there anything you find surprising or confusing?</b> <i>The scale of the stacked area. </i> <b>Is there anything you would change or do differently?</b> <i>Overall it's pretty clear in terms of visualizing the trend! and the colors are cute. Honestly i wouldnt mind just seeing them as trendlines instead -- i think it would feel a little more intuitive. </i>
 
+### Rihanna's Feedback
+##### Version 3:
+<b>Can you tell me what you think this is?</b> <i> Is the reported portion reported abortions? Legal aboritons? Estimated aboritons? Spike is around roe v wade butfrom what I see of this graph it doesn’t show that probably a lot more abortions were happening that we dont know about. </i> <b> Can you describe to me what this is telling you? </b> <i> Abortions have decreased in proportion as pregnancies have decreased. Its showing me correlation not causation though, which is ok. </i> <b> Is there anything you find surprising or confusing? </b> <i> No. </i> <b> Is there anything you would change or do differently? </b> <i>Gender inclusive language. </i>
+
+### Grace's Feedback
+##### Version 3:
+<b> Can you tell me what you think this is? </b> <i> Rates of women having aboritons vs live birth or fetal loss form 1970-today. </i> <b> Is there anything you find surprising or confusing? </b> <i> Not really, the colors are a little confusing. </i> <b> Who do you think is the intended audience for this? </b> <i> Voters. </i>
 
 ## The Solution
 Taking the feedback I received, I made two final representations of the data. Both have clear titles indicating that we are examining aboritons post <i>Roe v. Wade</i>, and mark <i>Roe v. Wade</i> on the visualization, mimicking the tactic used in the Economist.
