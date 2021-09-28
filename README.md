@@ -25,3 +25,5 @@ I studied cultural anthropology and fine art in undergrad, and am particularly d
 
 _amazing fantastic more words about this amazing final project I did!_ 👍
 
+[Final Project Part 1](/abortionpart1.md)
+
