@@ -58,6 +58,3 @@ I’m sure there are other states that would be more appropriate to use, but Was
 My final project will be an interactive story website built using Shorthand. Users will be able to scroll through the story and data. Many of the data visualizations will be built with Tableau and/or Flourish. If possible, I would love to experiment with doing some data visualizations in R. I’m interested in developing this skill and the capabilities of the software are appealing.
 
 I’ll need to learn more about embedding R visualizations into Shorthand, and if there is a way to do that and retain some of the interactive features available in ie. the plot.ly package in R.
-
-
-
