@@ -5,6 +5,7 @@ In this project, I’m interested creating a narrative around abortion access an
 ![image](/outline1abort.png)
 
 ## Initial Sketches
+![image](/IMG-5313.JPG)
 ![image](/IMG-5309.JPG)
 ![image](/IMG-5310.JPG)
 ![image](/IMG-5311.JPG)
