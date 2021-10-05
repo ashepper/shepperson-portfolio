@@ -67,3 +67,10 @@ Some suggestions could be interesting but I am on the fence about, such as addin
 
 Overall, there seemed to be some confusion on the audience of the piece. Given some of the feedback I received, I found it may be beneficial to narrow down the audience further, and that the piece might be most effective if it were targeting those who are “on the fence” about aboriton, but are open minded and willing to have conversations about it. In order to do this, it was suggested that I add more figures and statistics on the effects of both not being able to access abortion, as well as what the impacts of the ‘calls to action’ would be. 
 
+# Mood Boards and Inspiration
+
+## Quilt-y Lino-Cut Letterpress Vibe
+![image](/abortion_moodboard.jpg)
+
+## Anarchist Liberation Zine-Maker Vibe
+![image](/abortion_moodboard (1).jpg)
