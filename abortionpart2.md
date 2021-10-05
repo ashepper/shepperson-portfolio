@@ -73,4 +73,4 @@ Overall, there seemed to be some confusion on the audience of the piece. Given s
 ![image](/abortion_moodboard.jpg)
 
 ## Anarchist Liberation Zine-Maker Vibe
-![image](/abortion_moodboard (1).jpg)
+![image](/abortion_moodboard2.jpg)
