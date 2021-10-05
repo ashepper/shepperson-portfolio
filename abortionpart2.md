@@ -47,7 +47,7 @@ My target audience for this project started out as those who are generally “pr
 
 After talking to users during the research phase, I may alter the intended audience and goal slightly which I will talk about below. In my original proposal, the audience is those who would like to be more politically engaged around issues of aboriton but may not know how. Colloquially, I find that many who fall into this group identify as male, though not all. For this group, I targeted mostly men in their 20s - 70s who I know generally support the right to choose but who are not outwardly politically active on the issue.
 
-After interviewing these individuals I decided that it would be beneficial to interview several users who are intimately familiar with the subject matter, and could have valuable insight into additional statistics, facts, and topics that should be included in the presentation that I may have missed. For this, I interviewed a Maternal-Child nurse who works with low-income new mothers on a daily basis, as well as an individual who has been involved in pro-choice activism for some years on a national scale. 
+After interviewing these individuals I decided that it would be beneficial to interview several users who are intimately familiar with the subject matter, and could have valuable insight into additional statistics, facts, and topics that should be included in the presentation that I may have missed. For this, I interviewed a Maternal-Child nurse who works with low-income new mothers on a daily basis.
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link type="text/css" rel="stylesheet" href="resources/sheet.css" >
