@@ -55,5 +55,15 @@ After interviewing these individuals I decided that it would be beneficial to in
 
 
 ## Changes to Plan to Address Issues Identified
+Going into the feedback and user experience process, I knew I wanted to add more information, but was not sure how users would take the information given, and where they would want to go with it. One common point of feedback among almost all users was that the information and ideas behind those being “left behind” or “falling through the cracks” due to more restrictive abortion measures needed to be fleshed out more. Why do Black women die at higher rates during childbirth? How can I more concretely relate this back to abortion access?
 
-# References
+In order to address this, I hope to more concretely relate abortion access to the idea that if more restrictive states actually cared about “life --” that is, maternal outcomes, child poverty, they would invest in mothers and children. Instead, they are taking a punitive approach that does not help mothers, but rather harms them. In order to do this I will look at data such as investment in programs such as WIC, child poverty rates, and maternal outcomes in Texas specifically.
+
+There were some great smaller and very achievable suggestions, such as adding information about what the ‘baseline’ abortion laws are at a federal level, as well the number (or percentage) of abortions people are seeking by state. If Texas has the highest number of abortions of any state, why is that? How and does this relate to the extremely restrictive measures being put into place? Additionally, many found the chart depicting where Texans do and will have to go to get aboritons confusing. I will find another way of depicting this information, such as through a bar chart or other more digestible format appropriate for a broader audience.
+
+Another good suggestion was to flesh out how new regulations will affect pregnant people. What does crossing state lines mean for those seeking aboritons financially, emotionally, and in their outcomes? Can this be tied into more socioeconomic outcomes?
+
+Some suggestions could be interesting but I am on the fence about, such as adding international views on aboriton as a comparison, and more context and information on the background of the anti-aboriton movement and its progression over time.  These are aspects I believe I could add with more time and in a different context, but I am not sure about the importance of them in this project.
+
+Overall, there seemed to be some confusion on the audience of the piece. Given some of the feedback I received, I found it may be beneficial to narrow down the audience further, and that the piece might be most effective if it were targeting those who are “on the fence” about aboriton, but are open minded and willing to have conversations about it. In order to do this, it was suggested that I add more figures and statistics on the effects of both not being able to access abortion, as well as what the impacts of the ‘calls to action’ would be. 
+
