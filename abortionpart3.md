@@ -1,5 +1,4 @@
-# Telling a Story with Data
-#### My process in compiling and visualizing a story about abortion access in Texas.
+# Telling a Story with Data: Compiling and Visualizing a Story about Abortion Access in Texas.
 
 Over the past few weeks, I’ve been gathering data and sketching out a visual and written story about abortion access in the United States, and then specifically in Texas. The final product can be viewed [here](https://carnegiemellon.shorthandstories.com/texas-takes-onpersonal-liberties/index.html).
 
@@ -22,14 +21,13 @@ This involved writing all the statistics I had on notecards, and arranging them 
 This was one of the main points of feedback from the user research I did -- that the story was really broad -- and it seemed like most of the users were trying to suggest new information that could contextualize what I had at the time. With the data I had (and also influenced by current events), I decided to focus on Texas, which significantly narrowed the scope of my work and helped me focus on what data would actually contribute in putting together a convincing narrative. With Texas as my subject focus, I decided to narrow my audience to those who are already sympathetic to the plight for abortion access, but may not be knowledgeable or aware of what is happening in Texas.  My call to action and goals suddenly felt a lot more clear.
 
 ### Final Round of Drafting
-<p float="center">
-  <img src="/sketch1.JPG" width="500" />
-  <img src="/sketch2.JPG" width="500" /> 
-</p>
+![image](/sketch1.JPG)
+![image](/sketch2.JPG)
+
 Once I had my story in place, I got to sketching again, this time with more of a storyboard technique. When I had done my sketches in the earlier iterations of the project, I had mostly put pieces of information together without thinking enough (I realize now) about how they flowed. Making these sketches gave me a whole lot more direction once I actually went back to Shorthand, Flourish, and the other tools I was using. I had a purpose and could clearly see what graphics I had to make.
 
 ### Making it Mesh
-Once the initial graphics were done, I set out trying to make everything “look good.” I took inspiration from one of the mood boards I had completed earlier (see phase 2 page for more), and decided to base the aesthetic of the project off of protest signs. I used marker on paper to create all the illustrations for the piece. It’s subtle for sure, but it was my small nod to the cardboard and paper signs so many people have used to express their concerns and opinions about abortion in the streets and at protests.
+Once the initial graphics were done, I set out trying to make everything “look good.” I took inspiration from one of the mood boards I had completed earlier (see [phase 2 page](https://ashepper.github.io/shepperson-portfolio/abortionpart2.html) for more), and decided to base the aesthetic of the project off of protest signs. I used marker on paper to create all the illustrations for the piece. It’s subtle for sure, but it was my small nod to the cardboard and paper signs so many people have used to express their concerns and opinions about abortion in the streets and at protests.
 
 I struggled a bit with the color scheme, as I did not want to do bright red and blue, as it is too reminiscent of political parties. While these FOR SURE play a role here, that wasn’t the conversation I wanted to focus on. I used adobe’s color tool to find a color scheme that had some subtler tones. I wound up with a more purple blue and an orangy-pink red which I thought toned down the intensity a little bit, but didn’t feel to “feminine” (I wanted to steer away from this being a “woman’s issue.”)
 
@@ -37,4 +35,6 @@ In the end, I wound up with a 'vibe' that I feel reflected the tone I was aiming
 
 Take a look [HERE](https://carnegiemellon.shorthandstories.com/texas-takes-onpersonal-liberties/index.html) !
 
+![image](/hands.png)
+![image](/texas.png)
 
