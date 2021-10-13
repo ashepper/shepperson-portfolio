@@ -1,4 +1,6 @@
 # Draft Storyboard: Abortion Access in the United States
+#### [Go to Phase 1](/abortionpart2.md) of this project!
+#### [Go to the Final Phase](/abortionpart3.md) of this project!
 
 ### All across the country, people are being denied access to necessary medical procedures.
 <i> [talk about latest laws in Texas, Mississippi] </i>
