@@ -35,6 +35,6 @@ I struggled a bit with the color scheme, as I did not want to do bright red and 
 
 In the end, I wound up with a 'vibe' that I feel reflected the tone I was aiming for. I wanted to pay homage to the more 'DIY' activism and work being done around abortion care, but also provide clear and concise hitory and statistics to those who wanted to digest information quickly. I think the shorthand website was a good platoform for accomplishing this. 
 
-Take a look HERE !
+Take a look [HERE](https://carnegiemellon.shorthandstories.com/texas-takes-onpersonal-liberties/index.html) !
 
 
