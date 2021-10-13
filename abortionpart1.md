@@ -1,5 +1,6 @@
 # Final Project Proposal: Abortion Access & Public Opinion in the United States
-In this project, I’m interested creating a narrative around abortion access and public opinion on abortion in the United States. My theory is that public opinion does not accurately reflect the laws and regulations being put into place in many states. In the narrative and visualizations I create, I hope to demonstrate the disparity between what the voting population believes, and the increasing number of restrictions being enacted across the country. I hope that this will inspire legislators to take action to preserve access to abortion as a universal right in the United States. 
+
+In this project, I’m interested creating a narrative around abortion access and public opinion on abortion in the United States. My theory is that public opinion does not accurately reflect the laws and regulations being put into place in many states. In the narrative and visualizations I create, I hope to demonstrate the disparity between what the voting population believes, and the increasing number of restrictions being enacted across the country. I hope that this will inspire legislators to take action to preserve access to abortion as a universal right in the United States.
 
 ## Outline
 ![image](/outline1abort.png)
@@ -59,3 +60,7 @@ I’m sure there are other states that would be more appropriate to use, but Was
 My final project will be an interactive story website built using Shorthand. Users will be able to scroll through the story and data. Many of the data visualizations will be built with Tableau and/or Flourish. If possible, I would love to experiment with doing some data visualizations in R. I’m interested in developing this skill and the capabilities of the software are appealing.
 
 I’ll need to learn more about embedding R visualizations into Shorthand, and if there is a way to do that and retain some of the interactive features available in ie. the plot.ly package in R.
+
+
+#### [Go to Phase 2](/abortionpart2.md) of this project!
+#### [Go to the Final Phase](/abortionpart3.md) of this project!
