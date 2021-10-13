@@ -1,5 +1,5 @@
 # shepperson-portfolio
-Public portfolio for Telling Stories with Data at Carnegie Mellon University
+Hey there! This here is my public portfolio for the course <i>Telling Stories with Data</i> at  Heinz College at Carnegie Mellon University. The work on this page was done in the Fall of 2021.
 
 ## About Me
 Hi! My name is Anna Shepperson, I’m a second year Public Policy and Management student at Heinz College. I grew up in the Hudson River valley in New York, but since 2010 have been bouncing back and forth between Pittsburgh and NYC.
@@ -8,27 +8,31 @@ Prior to Heinz, I worked for several years in Pittsburgh-based non-profits, most
 
 In my free time, you can find me working on my “fixer-upper” house in Pittsburgh, hiking and spending time outside, or at [Pullproof Studio](https://www.pullproof.studio/), an artist co-working space and printmaking studio I (along with several friends) run in the Garfield neighborhood of Pittsburgh. 
 
-## What I hope to learn
-I studied cultural anthropology and fine art in undergrad, and am particularly drawn to visual methods of conveying information. This course seemed like an excellent way to learn tools for integrating my visual tendencies with my career goals in public policy and advocacy. Mostly, I hope to learn what tools are out there for creating and imagining new ways of visualizing data.
+## What I Learned
+This course has been an excellent way to learn tools for integrating my visual tendencies with my career goals in public policy and advocacy. It helped me get a sense of what tools are out there for visualizing data. It was also a great way for me to practice storyboarding and wireframing. 
 
-# **Portfolio**
+# **Portfolio** :toolbox:
+Below is some of the work I did as part of the course!
 
+### Visualizing Government Debt :chart_with_upwards_trend:
 
-### A Project
+[Here](/dataviz2.md) is a blog post documenting how I use several data viz methods and tools to test out how to best visualize [government debt data](https://data.oecd.org/gga/general-government-debt.html).
 
-[some text here](/dataviz2.md)
+### Critiquing a Visualization of Abortion Trends :scissors:
+[Here](/abortioncrit.md) I talk about what is an isn't working in [this](https://www.economist.com/graphic-detail/2017/01/18/the-abortion-rate-in-america-falls-to-its-lowest-level-since-roe-v-wade) graph from <i>The Economist</i> visualizing abortion trends in the United States.
 
-### Another Project 🤘
-[Here is a project where I talk about visualizing abortion](/abortioncrit.md)
+### Visualizing a Story about Abortion Access in Texas :pencil2:
+For my final project as part of the course, I collected and analyzed data on abortion access and prevalence in the United States. I used the opportunity to tell a story about how and why you should support abortion seekers in Texas. Below, I detail my process of coming up with the story and collecting data, making initial sketches and getting feedback, and finally piecing it all together into a website. The completed project can be found:
 
-### Final Project
+### [HERE!](https://carnegiemellon.shorthandstories.com/texas-takes-onpersonal-liberties/index.html)
 
-_amazing fantastic more words about this amazing final project I did!_ 👍
+##### :bulb: [Part 1](/abortionpart1.md)
+In Part 1, I walk through the first phase of story development including coming up with the idea, collecting initial datasets and sources, and outlining a story.
 
-[Final Project Part 1](/abortionpart1.md)
+##### :interrobang: [Part 2](/abortionpart2.md)
+In Part 2, I dive deeper into story development, including making some sketches and initial storyboards and doing user research.
 
-[Final Project Part 2](/abortionpart2.md)
-
-[Final Project Part 3](/abortionpart3.md)
+##### :jigsaw: [Part 3](/abortionpart3.md)
+In Part 3, I make some final edits and changes to the storyline, and piece it all together into a final product.
 
 
