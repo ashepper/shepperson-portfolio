@@ -33,8 +33,6 @@ Similarly, it is hard to tell from the graph what the larger intent of the visua
 My first attempt at visualizing the data  was an area chart. I felt that displaying the number of abortions as a proportion of total pregnancies was critical in understanding the data on a deeper level. It was also a good way to have all the data on the same axes, remedying one of the main flaws of the original visual.
 
 ![image](/abort_wire1.png)
-<img src="abort_wire1.png" width="100" height="100">
-
 
 ### Version 2:
 In version 2, I went for a simple line graph. While the numbers no longer reflected proportions, I thought maybe this version would be preferable to those who aren’t as familiar with area charts or think they are confusing. The line chart is familiar with most populations (I felt), and would perhaps be more easily interpretable. I wanted to retain the “total pregnancies” as a benchmark, so kept that on the same axis.
